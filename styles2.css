@@ -1,1 +1,16 @@
-image 
+img {
+    width: 500px;
+    height: 500px;
+    margin-top: 200px;
+}
+p {
+    text-align: center;
+    font-family: serif;
+    color: white;
+    background-color: black;
+    font-weight: 10px;
+    font-size:29px;
+}
+body {
+    background: black;
+}
